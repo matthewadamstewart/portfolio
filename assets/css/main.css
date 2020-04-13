@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(46, 25, 25);
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: rgb(46, 25, 25);
 			}
 
 	h3 {
@@ -2204,8 +2204,8 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: black;
+				text-shadow: 2px 2px 5px;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2213,12 +2213,12 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: rgb(115, 204, 32);
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: black;
 					border-color: inherit;
 				}
 
