@@ -2214,6 +2214,7 @@ input, select, textarea {
 
 				#main > section.dark strong {
 					color: rgb(115, 204, 32);
+					text-shadow: 2px 2px 5px rgb(52, 90, 16);
 					border-color: inherit;
 				}
 
